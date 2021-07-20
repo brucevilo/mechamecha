@@ -17,7 +17,7 @@
     "mysqli": "^3.0.8",
     "nodemon": "^1.19.2",
     "react": "16.8.6",
-    "react-native": "0.60.5",
+    "react-native": "0.62.3",
     "react-native-gesture-handler": "^1.4.1",
     "react-native-vector-icons": "^6.6.0",
     "react-navigation": "^4.0.5",
